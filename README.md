@@ -9,4 +9,5 @@ This repository contains all my Python projects from beginner to advanced. Each 
 3. **Password Generator** - Generates strong random passwords.
 4. **Rock Paper Scissors Game** - Simple interactive game using loops and functions.
 5. **Contact Book** - CRUD application for storing and managing contacts.
+6. **Students Marks Manager** - CRUD application for storing and managing students data.
 

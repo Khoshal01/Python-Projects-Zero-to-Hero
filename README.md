@@ -10,4 +10,5 @@ This repository contains all my Python projects from beginner to advanced. Each 
 4. **Rock Paper Scissors Game** - Simple interactive game using loops and functions.
 5. **Contact Book** - CRUD application for storing and managing contacts.
 6. **Students Marks Manager** - CRUD application for storing and managing students data.
+7. **TO-DO List** - CRUD application with database using json.
 
